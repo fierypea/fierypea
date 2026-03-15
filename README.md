@@ -1,4 +1,5 @@
-## Hi there 👋
+![Alt text](Untitled12_20260315205105.png)
+
 
 <!--
 **fierypea/fierypea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
